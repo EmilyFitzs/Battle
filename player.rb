@@ -9,4 +9,5 @@ class Player
   def reduce_hp(amount)
     @hp -= amount
   end
+
 end
